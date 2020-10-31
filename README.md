@@ -1,2 +1,2 @@
 # SpookyMazeGame
-BC Hacks spookiest game!
+BC Hacks spookiest game! w(ﾟДﾟ)w
