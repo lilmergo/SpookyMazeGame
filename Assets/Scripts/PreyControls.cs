@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerControls : MonoBehaviour
+public class PreyControls : MonoBehaviour
 {
     public Vector2 speed = new Vector2(50, 50); //public speed variable
 
@@ -22,6 +22,7 @@ public class PlayerControls : MonoBehaviour
 
         //apply movement to the player game object transform
         transform.Translate(movement);
+
 
 
     }
