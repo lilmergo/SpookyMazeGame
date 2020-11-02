@@ -16,7 +16,7 @@ We built it using Unity with C#, sharing progress over GitHub. Servers were host
 Routine algorithms to make mazes were a pain in the neck - most guided tutorials focus on 3d generation of mazes, and translating this to work alongside unity's 2d tilemap was somewhat confusing. Unity and Github are sworn, enemies.
 
 ### Accomplishments that we're proud of
-The maze works! The art is also really cool and we're proud of it. The online system also works which is dope! We can make rooms and join them as intended.
+The maze works! The art is also really cool and we're proud of it. The online system also works which is dope! We can make rooms and join them as intended. As well, we are incredibly proud to have placed second in the BCHacks Lite hackathon for this project!
 
 ### What we learned
 Unity is more difficult to use alongside Github compared to other software. Like a lot harder. But that being said we did learn how to coexist with it (sorta). 12 hours is not enough time to do what we wanted to do.
