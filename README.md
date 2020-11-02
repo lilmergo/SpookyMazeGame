@@ -34,11 +34,17 @@ Polish up the game!
 - Add perimeter view scripts
 - Etc... there is a lot we want to do. We got really invested in this project and bit off way more than we could chew.
 
-##### All the art and sounds in parentheses are done already, just not implemented. So are the loadings/outcome screen. As well as our perimeter script.
+##### All the art and sounds in parentheses is done already, just not implemented. So are the loadings/outcome screen. As well as our perimeter script.
 
 ### Installation Instructions
 To try the game, clone our repository and open "CrustMAZEcean.exe" then click insert name type a username to join the server, then click on make room and put a code (can be whatever just no more than 10 characters), 5 other players can join you online, by entering a username, and clicking join room and putting in the code you made previously. Once everyone is in the game the host will press K to initialize the map
 Once in-game everyone moves with WASD the divers search the map for the exit, while the crab tries to kill em' by pressing left click when close. The crab can also restart the map by pressing K again.
+
+###Created by:
+- Adam Collins (wubbadukky)
+- Johnathan Qiao (JonathanQ-Maker)
+- Logan Parker (LoganParker)
+- Megan Nguyen (lilmergo)
 
 **[BCHacks Lite Showcase Video](https://youtu.be/J4-2irPT1ps)**   
 **[Devpost Project Link](https://devpost.com/software/the-spooky-crustmazecean)**   
