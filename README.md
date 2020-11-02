@@ -40,5 +40,5 @@ Polish up the game!
 To try the game, clone our repository and open "CrustMAZEcean.exe" then click insert name type a username to join the server, then click on make room and put a code (can be whatever just no more than 10 characters), 5 other players can join you online, by entering a username, and clicking join room and putting in the code you made previously. Once everyone is in the game the host will press K to initialize the map
 Once in-game everyone moves with WASD the divers search the map for the exit, while the crab tries to kill em' by pressing left click when close. The crab can also restart the map by pressing K again.
 
-**[BCHacks Lite Showcase Video](https://youtu.be/J4-2irPT1ps)
-**[Devpost Project Link](https://devpost.com/software/the-spooky-crustmazecean)
+**[BCHacks Lite Showcase Video](https://youtu.be/J4-2irPT1ps)**   
+**[Devpost Project Link](https://devpost.com/software/the-spooky-crustmazecean)**   
